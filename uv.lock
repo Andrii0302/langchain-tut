@@ -969,6 +969,7 @@ dependencies = [
     { name = "langchain-pinecone" },
     { name = "langchain-tavily" },
     { name = "langchainhub" },
+    { name = "langgraph" },
     { name = "python-dotenv" },
     { name = "tavily-python" },
 ]
@@ -985,6 +986,7 @@ requires-dist = [
     { name = "langchain-pinecone", specifier = ">=0.2.13" },
     { name = "langchain-tavily", specifier = ">=0.2.18" },
     { name = "langchainhub", specifier = ">=0.1.21" },
+    { name = "langgraph", specifier = ">=1.2.4" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
     { name = "tavily-python", specifier = ">=0.7.26" },
 ]
